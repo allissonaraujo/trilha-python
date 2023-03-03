@@ -1,8 +1,9 @@
-# Import libs
+#Import libs
 from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
-from colorama import  Fore, Style
-driver = webdriver.Chrome(ChromeDriverManager().install())
+
+driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 
 # Open link in browser
 driver.get("https://statusinvest.com.br/fundos-imobiliarios/knri11")
