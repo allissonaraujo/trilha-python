@@ -15,3 +15,5 @@
 **Análise de dados com Pandas:** Conteúdo voltado para o aprendizado de análise de dados com Pandas, lib muito utilizada por cientistas de dados. Todo o conteúdo deste módulo foi escrito utilizando o Jupyter.
 
 **Extração de dados com Python e Selenium:** Conteúdo voltado para o aprendizando de extração de dados (De forma automatizada) utilizando a lib  Selenium e seus recursos.
+
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
