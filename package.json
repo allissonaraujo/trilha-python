@@ -1,0 +1,22 @@
+{
+  "name": "trilha-python",
+  "version": "1.0.0",
+  "description": "> Gostarria de iniciar esse MD com a seguinte informação: Esta trilha foi feita por mim com base em alguns cursos que eu tenho em alguns portais. Porém fui filtrando apenas o que de fato estava em meu radar de aprendizado. Caso queira seguir a mesma, tenha ciência de que pode ser que alguns tópicos podem ou não está contido aqui. Mas fique à vontade para utilizar na sua trilha. 👍 ͡❛ ͜ʖ ͡❛)👍",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allissonaraujo/trilha-python.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allissonaraujo/trilha-python/issues"
+  },
+  "homepage": "https://github.com/allissonaraujo/trilha-python#readme",
+  "devDependencies": {
+    "commitizen": "^4.3.0"
+  }
+}

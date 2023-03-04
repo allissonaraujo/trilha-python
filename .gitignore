@@ -1,0 +1,11 @@
+# Node.js
+node_modules/
+npm-debug.log*
+
+# arquivos gerados pelo npm
+*.pnp
+*.pnp.js
+
+# Yarn
+yarn-error.log
+yarn.lock
